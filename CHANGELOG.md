@@ -1,5 +1,12 @@
 # Changelog
 
+## [25.116.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.115.0...v25.116.0) (2026-01-27)
+
+
+### Features
+
+* **add:** BEE PIR 1 ([#11395](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11395)) ([78a852c](https://github.com/Koenkk/zigbee-herdsman-converters/commit/78a852c31d2cc240823b96101e5322d48b4e51b7))
+
 ## [25.115.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.114.0...v25.115.0) (2026-01-27)
 
 
