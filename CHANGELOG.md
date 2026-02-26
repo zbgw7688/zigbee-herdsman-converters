@@ -1,5 +1,18 @@
 # Changelog
 
+## [26.12.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.11.0...v26.12.0) (2026-02-26)
+
+
+### Features
+
+* **add:** KES-606US-L3-EESS ([#11602](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11602)) ([642a415](https://github.com/Koenkk/zigbee-herdsman-converters/commit/642a41597118ed2758ba3508f8336806c68bec21))
+
+
+### Bug Fixes
+
+* Move Legrand custom clusters from ZH to ZHC ([#11609](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11609)) ([5fc3a28](https://github.com/Koenkk/zigbee-herdsman-converters/commit/5fc3a281e117f608523d9472baba826b343697f8))
+* Nous B5Z and B6Z: fix detection ([#11608](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11608)) ([38e5e80](https://github.com/Koenkk/zigbee-herdsman-converters/commit/38e5e80612cfbbd9ea3b90095a14cd5f9603c1ad))
+
 ## [26.11.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.10.1...v26.11.0) (2026-02-25)
 
 
