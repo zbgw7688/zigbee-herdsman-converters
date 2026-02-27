@@ -86,7 +86,7 @@ export const definitions: DefinitionWithExtend[] = [
                         const payload = {
                             squawkinfo: (warningMode << 4) + (strobe << 3) + soundLevel,
                         }
-                        await entity.command('ssIasWd', 'squawk', payload, {disableDefaultResponse: true, disableResponse: true, timeout: false});
+                        await entity.command('ssIasWd', 'squawk', payload, {disableDefaultResponse: true, disableResponse: true, timeout: 0});
                     };
                 },
             }
