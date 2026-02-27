@@ -72,7 +72,6 @@ export const definitions: DefinitionWithExtend[] = [
                     const soundLevel = value.level ? level[value.level] : level.medium;
                     const strobe = value.strobe !== undefined ? value.strobe : 1;
                     const duration = value.duration || 10;
-                    // const warningcycle = value.warningcycle || 3;
 
                     if (value.mode !== "arming" && value.mode !== "disarming") {
                         const payload = {
@@ -100,7 +99,6 @@ export const definitions: DefinitionWithExtend[] = [
         ],
         meta: {
             disableDefaultResponse: true,
-            // timeout: false
         },
     },
     {
