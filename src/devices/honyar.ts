@@ -221,7 +221,9 @@ export const definitions: DefinitionWithExtend[] = [
         meta: {},
     },
     {
-        zigbeeModel: ['HY0022'],
+        fingerprint: [
+            {modelID: 'HY0022', manufacturerID: 0x115F}
+        ],
         model: 'HS1CG',
         vendor: 'Honyar',
         description: 'Gas sensor',
